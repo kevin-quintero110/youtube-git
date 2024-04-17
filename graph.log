@@ -1,0 +1,24 @@
+* 46c5ccd algo solo
+*   78cd528 agregando estaciones del año con fecha de inicio
+|\  
+| * 7a72ef7 agregando estaciones del año
+* | b7df294 agrengando estaciones del año con fecha de inicio
+|/  
+*   fdffd25 resolviendo conflicto merge main/html en el documento html
+|\  
+| * 279eb26 agregando index.js al index.html
+* | 0879f9c agregando style .css al index.html
+* |   6301857 Merge branch 'js'
+|\ \  
+| * | 4fd730f creando index.js
+* | | 28def8b creando style
+| |/  
+|/|   
+* | fd4828a creando archivo index.html
+|/  
+* 9d91f3c ignorando archivos .exe
+* a5c408c Create LICENSE
+* daa36b8 agregando mas contenido al readme
+* 2e508a8 agregando contenido inicial al README
+* 3cda956  segundo commit C:
+* 55dfd32 primer commit c:
